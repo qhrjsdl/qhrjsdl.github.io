@@ -28,12 +28,8 @@ nav a {
          -o-transition: all .25s ease;
             transition: all .25s ease;
 }
-nav .dropdown:after {
-    content: ' ▶';
-}
-nav .dropdown:hover:after{
-	content:'\25bc'
-}
+
+
 nav li:hover a {
     background: #ccc;
 }
