@@ -1,8 +1,8 @@
 
-body {
+.imageclass {
    position: relative;
 }
-body:after {
+.imageclass {
 	
 	background-size: cover;	   
        	-webkit-background-size: cover;
