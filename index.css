@@ -17,11 +17,10 @@
     top: 0;
     left: 0;
     background-image: url("http://wallpapercave.com/wp/CDLhKuS.jpg");
+	 background-image: rgba(255,255,255,0.5);
     width: 100%;
     height: 100%;
-    filter:alpha(opacity=50);
-    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.5);
-    opacity:.50;
+  
    
 }
 
