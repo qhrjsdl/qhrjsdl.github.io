@@ -1,11 +1,12 @@
-nav body {
+body {
 
 	 
-    background-image: url("qhrjsdl.github.io/ImageFolder/the-motorcycle-on-a-black-background.png")no-repeat center center fixed; 
-   
-    background-size:     cover;                    
-    background-repeat:   no-repeat;
-    background-position: center center;
+    background-image: url("qhrjsdl.github.io/ImageFolder/the-motorcycle-on-a-black-background.png") no-repeat center center fixed; 
+	-webkit-transition: all .25s ease;
+       -moz-transition: all .25s ease;
+        -ms-transition: all .25s ease;
+         -o-transition: all .25s ease;
+            transition: all .25s ease;
 
 
 
