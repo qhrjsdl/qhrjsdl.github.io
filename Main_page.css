@@ -7,7 +7,11 @@ body {
  	-moz-background-size: cover;
  	-o-background-size: cover;
  	-background-size: cover; 
-	
+	-webkit-transition: all .25s ease;
+ -       -moz-transition: all .25s ease;
+ -        -ms-transition: all .25s ease;
+ -         -o-transition: all .25s ease;
+ -            transition: all .25s ease;
 
 
 }
