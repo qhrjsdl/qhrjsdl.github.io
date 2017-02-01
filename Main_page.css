@@ -1,7 +1,7 @@
 body {
 
 	 
-    background-image: url("qhrjsdl.github.io/ImageFolder/the-motorcycle-on-a-black-background.png"); 
+    background-image: url("qhrjsdl.github.io/ImageFolder/the-motorcycle-on-a-black-background.png")no-repeat center center fixed; 
    
     background-size:     cover;                    
     background-repeat:   no-repeat;
