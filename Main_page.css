@@ -1,5 +1,9 @@
 body {
 	background-image:url("qhrjsdl.github.io/ImageFolder/the-motorcycle-on-a-black-background.png");
+	background-size: cover;	   
+       	-webkit-background-size: cover;
+      	-moz-background-size: cover;
+	-o-background-size: cover;
 }
 
 nav ul {
